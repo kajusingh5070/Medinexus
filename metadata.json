@@ -1,0 +1,6 @@
+{
+  "name": "MediNexus - Smart Digital Hospital Platform",
+  "description": "Comprehensive hospital management platform featuring patient registration, doctor scheduling, EHR, pharmacy, lab diagnostic reports, bed allocation, and AI clinical assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
